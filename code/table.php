@@ -157,4 +157,3 @@ if ($bulletins !== null)
         echo "</table>";
     }
 ?>
-
